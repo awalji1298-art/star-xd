@@ -13,12 +13,12 @@
     },
     "OWNER_NAME": {
       "description": "Name of the bot owner",
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+      "value": "wall xd",
       "required": true
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number with country code",
-      "value": "1234567890",
+      "value": "6282189240799",
       "required": true
     },
     "SESSION_ID": {
